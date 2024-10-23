@@ -15,7 +15,11 @@ void OnAchievementEarned(Event event, const char[] name, bool dontBroadcast)
 	int achievement = event.GetInt("achievement");
 	int client      = event.GetInt("player");
 
-	MC_PrintToChatAll("%t", "Achievement Earned", client, achievement);
+	char achievementId[4];
+
+	IntToString(achievement, achievementId, sizeof(achievementId));
+
+	MC_PrintToChatAll("%t", "Achievement Earned", client, achievementId);
 }
 
 public void OnPluginStart()
