@@ -1,0 +1,1395 @@
+"Phrases"
+{
+  "Achievement Earned"
+  {
+    "#format"  "{1:N},{2:t}"
+    "chi"      "{palegreen}玩家 {green}{1}{palegreen} 获得了成就 {green}{2}"
+    "en"       "{palegreen}Player {green}{1}{palegreen} earned the {green}{2}{palegreen} achievement"
+    "es"       "{palegreen}El jugador {green}{1}{palegreen} obtuvo el logro {green}{2}"
+    "fr"       "{palegreen}Le joueur {green}{1}{palegreen} a obtenu le succès {green}{2}"
+    "it"       "{palegreen}Il giocatore {green}{1}{palegreen} ha ottenuto il risultato {green}{2}"
+    "jp"       "{palegreen}プレイヤー {green}{1}{palegreen} は {green}{2}{palegreen} 実績を獲得しました"
+    "pt"       "{palegreen}O jogador {green}{1}{palegreen} ganhou a conquista {green}{2}"
+    "ru"       "{palegreen}Игрок {green}{1}{palegreen} получил достижение {green}{2}"
+  }
+
+  "0"
+  {
+    "chi"  "第一滴血"
+    "en"   "First Blood"
+    "es"   "Primera Sangre"
+    "fr"   "Premier Sang"
+    "it"   "Rambo"
+    "jp"   "ファーストブラッド"
+    "pt"   "Primeiro Sangue"
+    "ru"   "Первая кровь"
+  }
+
+  "1"
+  {
+    "chi"  "重装上阵"
+    "en"   "Rack It"
+    "es"   "Bombéala"
+    "fr"   "Rack It"
+    "it"   "Accumulatore"
+    "jp"   "ラックイット"
+    "pt"   "Rack It"
+    "ru"   "Заряжай!"
+  }
+
+  "2"
+  {
+    "chi"  "服务与保护"
+    "en"   "To Serve and Protect"
+    "es"   "A su Protección y Servicio"
+    "fr"   "Protéger et Servir"
+    "it"   "Proteggere e Servire"
+    "jp"   "奉仕と保護"
+    "pt"   "Servir e Proteger"
+    "ru"   "Служить и защищать"
+  }
+
+  "3"
+  {
+    "chi"  "我叫你记零分！"
+    "en"   "Mark It Zero"
+    "es"   "Anota un Cero"
+    "fr"   "Mets-lui Zéro"
+    "it"   "Segna zero"
+    "jp"   "ゼロを記入しておけ"
+    "pt"   "Marque Zero"
+    "ru"   "Прошу прощения, ноль"
+  }
+
+  "4"
+  {
+    "chi"  "捷克佬"
+    "en"   "Czechmate"
+    "es"   "Jacheco Mate"
+    "fr"   "Tchèque et Mat"
+    "it"   "Amico Ceco"
+    "jp"   "チェコメイト"
+    "pt"   "Companheiro Tcheco"
+    "ru"   "Чешский товарищ"
+  }
+
+  "5"
+  {
+    "chi"  "点亮你心中之火"
+    "en"   "Let Your Inner Light Shine"
+    "es"   "Deja que tu Luz Interior Brille"
+    "fr"   "Laisse Briller Ta Lumière Intérieure"
+    "it"   "Lascia che la tua luce interiore risplenda"
+    "jp"   "内なる光を輝かせろ"
+    "pt"   "Deixe Sua Luz Interior Brilhar"
+    "ru"   "Пусть ваш внутренний свет сияет"
+  }
+
+  "6"
+  {
+    "chi"  "尤金·斯通纳"
+    "en"   "Stoner"
+    "es"   "Eugenio Porrero"
+    "fr"   "Stoner"
+    "it"   "Fattone"
+    "jp"   "ストーナー"
+    "pt"   "Chapado"
+    "ru"   "Укурок"
+  }
+
+  "7"
+  {
+    "chi"  "致命武器"
+    "en"   "Lethal Weapon"
+    "es"   "Arma Letal"
+    "fr"   "L'Arme Fatale"
+    "it"   "Arma Letale"
+    "jp"   "リーサル・ウェポン"
+    "pt"   "Arma Letal"
+    "ru"   "Смертельное оружие"
+  }
+
+  "8"
+  {
+    "chi"  "杀手悲歌"
+    "en"   "El Mariachi"
+    "es"   "El Mariachi"
+    "fr"   "El Mariachi"
+    "it"   "El Mariachi"
+    "jp"   "エル・マリアッチ"
+    "pt"   "El Mariachi"
+    "ru"   "Музыкант"
+  }
+
+  "9"
+  {
+    "chi"  "愿你安息，斯特姆"
+    "en"   "Sturm on the Horizon"
+    "es"   "Turmenta en el Horizonte"
+    "fr"   "Un Peu De Ruger !"
+    "it"   "Tempesta all'orizzonte"
+    "jp"   "嵐が来る"
+    "pt"   "Turbilhão no Horizonte"
+    "ru"   "Ругер на горизонте"
+  }
+
+  "10"
+  {
+    "chi"  "S.W.A.T."
+    "en"   "Special Weapons and Tactics"
+    "es"   "Armas y Tácticas Especiales"
+    "fr"   "SWAT : Special Weapons and Tactics"
+    "it"   "SWAT"
+    "jp"   "SWAT"
+    "pt"   "Armas e Táticas Especiais"
+    "ru"   "Специальное оружие и тактика"
+  }
+
+  "11"
+  {
+    "chi"  "白色死神"
+    "en"   "White Death"
+    "es"   "La Muerte Blanca"
+    "fr"   "La Mort Blanche"
+    "it"   "Morte bianca"
+    "jp"   "白い死神"
+    "pt"   "Morte Branca"
+    "ru"   "Белая смерть"
+  }
+
+  "12"
+  {
+    "chi"  "祖国母亲！"
+    "en"   "Motherland!"
+    "es"   "¡La Madre Patria!"
+    "fr"   "La Mère Patrie !"
+    "it"   "Madre patria!"
+    "jp"   "祖国のために！"
+    "pt"   "Pátria!"
+    "ru"   "За родину!"
+  }
+
+  "13"
+  {
+    "chi"  "帕特里克会以你为荣"
+    "en"   "Patrick Would Be Proud"
+    "es"   "Patrick Estaría Orgulloso"
+    "fr"   "Patrick En Serait Fier"
+    "it"   "Patrick sarebbe fiero"
+    "jp"   "パトリックも誇りに思うだろう"
+    "pt"   "Patrick Ficaria Orgulhoso"
+    "ru"   "Патрик мог бы гордиться"
+  }
+
+  "14"
+  {
+    "chi"  "弹无虚发"
+    "en"   "One for Each Eye"
+    "es"   "Uno para Cada Ojo"
+    "fr"   "Un pour Chaque Oeil"
+    "it"   "Uno per ogni occhio"
+    "jp"   "両目に一発ずつ"
+    "pt"   "Um para Cada Olho"
+    "ru"   "По одному на каждый глаз"
+  }
+
+  "15"
+  {
+    "chi"  "只因你是357"
+    "en"   "357 Reasons"
+    "es"   "357 Razones"
+    "fr"   "357 Raisons"
+    "it"   "357 Motivi"
+    "jp"   "357の理由"
+    "pt"   "357 Motivos"
+    "ru"   "357 причин"
+  }
+
+  "16"
+  {
+    "chi"  "\"马腿\"步枪"
+    "en"   "Mare's Laig"
+    "es"   "Pata de Yegua"
+    "fr"   "Mare's Laig"
+    "it"   "Mare's Laig"
+    "jp"   "メアーズレッグ"
+    "pt"   "Mare's Laig"
+    "ru"   "Кобылья нога"
+  }
+
+  "17"
+  {
+    "chi"  "票房大卖"
+    "en"   "Box Office Hit"
+    "es"   "Éxito de Taquilla"
+    "fr"   "Succès du Box Office"
+    "it"   "Successo al botteghino"
+    "jp"   "大当たり"
+    "pt"   "Sucesso de Bilheteria"
+    "ru"   "Кассовый хит"
+  }
+
+  "18"
+  {
+    "chi"  "尸骨无存"
+    "en"   "Cabin Fever"
+    "es"   "Fiebre de Cabaña"
+    "fr"   "Le Syndrome de la Cabane"
+    "it"   "Sindrome della capanna"
+    "jp"   "キャビン・フィーバー"
+    "pt"   "Febre de Cabine"
+    "ru"   "Лихорадка в хижине"
+  }
+
+  "19"
+  {
+    "chi"  "尸年快乐"
+    "en"   "Year of the Zombie"
+    "es"   "Año del Zombi"
+    "fr"   "L'année du Zombie"
+    "it"   "Anno dello Zombi"
+    "jp"   "ゾンビの年"
+    "pt"   "Ano do Zumbi"
+    "ru"   "Год зомби"
+  }
+
+  "20"
+  {
+    "chi"  "巴西BOPE特警部队"
+    "en"   "BOPE"
+    "es"   "BOPE"
+    "fr"   "BOPE"
+    "it"   "BOPE"
+    "jp"   "特殊警察作戦大隊"
+    "pt"   "BOPE"
+    "ru"   "БОПО"
+  }
+
+  "21"
+  {
+    "chi"  "朗朗晴空"
+    "en"   "Clear Skies"
+    "es"   "Cielo Despejado"
+    "fr"   "Ciel Dégagé"
+    "it"   "Cielo sereno"
+    "jp"   "雨上がりの空"
+    "pt"   "Céu Limpo"
+    "ru"   "Чистое небо"
+  }
+
+  "22"
+  {
+    "chi"  "重见天日"
+    "en"   "Freedom"
+    "es"   "Libertad"
+    "fr"   "Liberté"
+    "it"   "Libertà"
+    "jp"   "自由"
+    "pt"   "Liberdade"
+    "ru"   "Свобода"
+  }
+
+  "23"
+  {
+    "chi"  "谢幕时刻！"
+    "en"   "Closing Time!"
+    "es"   "¡Hora del Cierre!"
+    "fr"   "On Ferme !"
+    "it"   "Ora di chiudere!"
+    "jp"   "閉店ガラガラ"
+    "pt"   "Horário de Encerramento!"
+    "ru"   "Время закрытия!"
+  }
+
+  "24"
+  {
+    "chi"  "它们要来抓你喽，芭芭拉"
+    "en"   "They're Coming to Get You, Barbara"
+    "es"   "Vienen por ti, Barbara"
+    "fr"   "Ils Peuvent Venir Te Chercher, Barbara"
+    "it"   "Stanno venendo a prenderti, Barbara"
+    "jp"   "奴らが来るぞ、バーバラ"
+    "pt"   "Eles Estão Vindo para Pegar Você, Barbara"
+    "ru"   "Они идут за тобой, Барбара"
+  }
+
+  "25"
+  {
+    "chi"  "禁止逗留"
+    "en"   "No Loitering"
+    "es"   "Prohibido Holgazanear"
+    "fr"   "Interdiction de Glander"
+    "it"   "Vietato bighellonare"
+    "jp"   "立ち入り禁止"
+    "pt"   "Nenhuma Demora"
+    "ru"   "Не задерживаться"
+  }
+
+  "26"
+  {
+    "chi"  "嘿，保罗！"
+    "en"   "Hey, Paul!"
+    "es"   "¡Hey, Paul!"
+    "fr"   "Hey, Paul !"
+    "it"   "Ehi, Paul!"
+    "jp"   "ヘイ、ポール！"
+    "pt"   "Hey, Paul!"
+    "ru"   "Эй, Пол!"
+  }
+
+  "27"
+  {
+    "chi"  "粉碎迷墙"
+    "en"   "Waiting for the Worms"
+    "es"   "Esperando a los Gusanos"
+    "fr"   "En Attendant les Vers"
+    "it"   "Aspettando i vermi"
+    "jp"   "蛆虫どもを待ちながら"
+    "pt"   "Esperando os Vermes"
+    "ru"   "В ожидании червей"
+  }
+
+  "28"
+  {
+    "chi"  "电锯狂魔"
+    "en"   "Chainsaw Massacre"
+    "es"   "La Masacre"
+    "fr"   "Massacre à la Tronçonneuse"
+    "it"   "Non Aprite Quella Porta"
+    "jp"   "悪魔のいけにえ"
+    "pt"   "Massacre da Serra Elétrica"
+    "ru"   "Резня бензопилой"
+  }
+
+  "29"
+  {
+    "chi"  "戈登弗里曼"
+    "en"   "One Free Man"
+    "es"   "El Hombre Libre"
+    "fr"   "Le FreeMan"
+    "it"   "Un uomo libero"
+    "jp"   "ワン・フリーマン"
+    "pt"   "Um Homem Livre"
+    "ru"   "Кажется, ты потерял это в Чёрной Мезе"
+  }
+
+  "30"
+  {
+    "chi"  "林中樵夫"
+    "en"   "Woodsman"
+    "es"   "Leñador"
+    "fr"   "Bûcheron"
+    "it"   "Boscaiolo"
+    "jp"   "木こり"
+    "pt"   "Lenhador"
+    "ru"   "Лесник"
+  }
+
+  "31"
+  {
+    "chi"  "地狱厨房"
+    "en"   "Hell's Kitchen"
+    "es"   "Cocina del Infierno"
+    "fr"   "Cauchemar en Cuisine"
+    "it"   "Cucina da incubo"
+    "jp"   "ヘルズ・キッチン"
+    "pt"   "A Cozinha do Inferno"
+    "ru"   "Адская кухня"
+  }
+
+  "32"
+  {
+    "chi"  "钝器损伤"
+    "en"   "Blunt Force Trauma"
+    "es"   "Contusión"
+    "fr"   "Traumatisme Contondant"
+    "it"   "Trauma da corpo contundente"
+    "jp"   "鈍的外傷"
+    "pt"   "Trauma Contundente"
+    "ru"   "Травма тупым предметом"
+  }
+
+  "33"
+  {
+    "chi"  "强光蔽目"
+    "en"   "Blinded By the Light"
+    "es"   "Cegado por la Luz"
+    "fr"   "Aveuglé par la Lumière"
+    "it"   "Accecato dalla luce"
+    "jp"   "光で目もくらみ"
+    "pt"   "Cego pela Luz"
+    "ru"   "Ослеплённый светом"
+  }
+
+  "34"
+  {
+    "chi"  "黑桃A"
+    "en"   "Ace of Spades"
+    "es"   "As de Espalas"
+    "fr"   "L'As de Pique"
+    "it"   "Asso di picche"
+    "jp"   "スペードのエース"
+    "pt"   "Ás de Espadas"
+    "ru"   "Копать не перекопать..."
+  }
+
+  "35"
+  {
+    "chi"  "\"焊\"卫者"
+    "en"   "Solder This"
+    "es"   "Suelda Esto"
+    "fr"   "Soude-moi Ça !"
+    "it"   "Salda questo"
+    "jp"   "ハンダ付け"
+    "pt"   "Solda isto"
+    "ru"   "Припаяйте это"
+  }
+
+  "36"
+  {
+    "chi"  "曼哈顿计划"
+    "en"   "The Manhattan Project"
+    "es"   "El Proyecto Manhattan"
+    "fr"   "Le Projet Manhattan"
+    "it"   "Progetto Manhattan"
+    "jp"   "マンハッタン計画"
+    "pt"   "O Projeto Manhattan"
+    "ru"   "Манхэттенский проект"
+  }
+
+  "37"
+  {
+    "chi"  "去头毁脑"
+    "en"   "Remove the Head, Destroy the Brain"
+    "es"   "Remueve la Cabeza, Destruye el Cerebro"
+    "fr"   "En Leur Coupant la Tête, Ou en Leur Détruisant le Cerveau"
+    "it"   "Rimuovere la testa, Distruggere il cervello"
+    "jp"   "頭を除去、脳を破壊"
+    "pt"   "Remova a Cabeça, Destrua o Cérebro"
+    "ru"   "Обезглавливание - уничтожение мозга"
+  }
+
+  "38"
+  {
+    "chi"  "稳手连刺"
+    "en"   "Stabbity Style"
+    "es"   "Apuñalar con Estilo"
+    "fr"   "Un style poign(ard)ant"
+    "it"   "Accoltellato"
+    "jp"   "心刺すべし"
+    "pt"   "Estilo de Estabilidade"
+    "ru"   "Колющий стиль"
+  }
+
+  "39"
+  {
+    "chi"  "非你不可"
+    "en"   "Only YOU"
+    "es"   "Sólo TU"
+    "fr"   "Rien que TOI"
+    "it"   "Solo TE"
+    "jp"   "あなただけに"
+    "pt"   "Só VOCÊ"
+    "ru"   "Только ТЕБЯ ОДНОГО"
+  }
+
+  "40"
+  {
+    "chi"  "破坏性因素"
+    "en"   "Adolescent Resident"
+    "es"   "Residente Adolescente"
+    "fr"   "Adolescent Resident"
+    "it"   "Residente adolescente"
+    "jp"   "青年期の住人"
+    "pt"   "Residente Adolescente"
+    "ru"   "Подростковый ординатор"
+  }
+
+  "41"
+  {
+    "chi"  "宁红不死"
+    "en"   "Better Red Than Dead"
+    "es"   "Mejor Rojo que Muerto"
+    "fr"   "Plutôt Rouge que Mort"
+    "it"   "Meglio rosso che morto"
+    "jp"   "死ぬより赤がいい"
+    "pt"   "Melhor Vermelho do que Morto"
+    "ru"   "Лучше красный, чем мёртвый"
+  }
+
+  "42"
+  {
+    "chi"  "夏日男孩"
+    "en"   "Boys of Summer"
+    "es"   "Chicos del Verano"
+    "fr"   "Boys of Summer"
+    "it"   "Fuoricampo"
+    "jp"   "夏の少年"
+    "pt"   "Meninos de Verão"
+    "ru"   "Летние мальчики"
+  }
+
+  "43"
+  {
+    "chi"  "小心手雷！"
+    "en"   "Fire in the Hole!"
+    "es"   "¡A Cubierto!"
+    "fr"   "Feu Dans le Trou !"
+    "it"   "Bomba in buca!"
+    "jp"   "爆発するぞ！"
+    "pt"   "Fogo no Buraco!"
+    "ru"   "В укрытие!"
+  }
+
+  "44"
+  {
+    "chi"  "放马过来"
+    "en"   "Come Get Some"
+    "es"   "Vengan a Por Mí"
+    "fr"   "Amenez-vous"
+    "it"   "Venite a prenderne un po'"
+    "jp"   "かかってこい"
+    "pt"   "Venham Morrer"
+    "ru"   "Подходи и получи"
+  }
+
+  "45"
+  {
+    "chi"  "地狱未满"
+    "en"   "Some Room Left in Hell"
+    "es"   "Un Poco de Lugar en el Infierno"
+    "fr"   "Il Reste de la Place en Enfer"
+    "it"   "C'è ancora un po' di spazio all'inferno"
+    "jp"   "地獄の空き部屋"
+    "pt"   "Algum Quarto Restando no Inferno"
+    "ru"   "Осталось немного места в аду"
+  }
+
+  "46"
+  {
+    "chi"  "和平天使"
+    "en"   "Pacifist"
+    "es"   "Pacifista"
+    "fr"   "Pacifiste"
+    "it"   "Pacifista"
+    "jp"   "平和主義者"
+    "pt"   "Pacifista"
+    "ru"   "Пацифист"
+  }
+
+  "47"
+  {
+    "chi"  "\"我们做到了，伙计！\""
+    "en"   "We Got This!"
+    "es"   "¡Lo Tenemos!"
+    "fr"   "On l'a Fait !"
+    "it"   "Possiamo farcela!"
+    "jp"   "やったぞ！"
+    "pt"   "Está no Papo!"
+    "ru"   "Мы справились!"
+  }
+
+  "48"
+  {
+    "chi"  "纽约时刻"
+    "en"   "New York Minute"
+    "es"   "Minuto de Nueva York"
+    "fr"   "Une Journée à New York"
+    "it"   "Una pazza giornata a New York"
+    "jp"   "ニューヨーク・ミニット"
+    "pt"   "Minuto Nova Iorque"
+    "ru"   "Минута Нью-Йорка"
+  }
+
+  "49"
+  {
+    "chi"  "映前熄灯"
+    "en"   "Light's Out"
+    "es"   "Fuera Luces"
+    "fr"   "Extinction des Feux"
+    "it"   "Via le luci"
+    "jp"   "閉館"
+    "pt"   "Luzes Apagadas"
+    "ru"   "Света нет"
+  }
+
+  "50"
+  {
+    "chi"  "尖峰时刻"
+    "en"   "Rush Hour"
+    "es"   "Hora Pico"
+    "fr"   "Heure de Pointe"
+    "it"   "Ora di punta"
+    "jp"   "ラッシュアワー"
+    "pt"   "Hora do Rush"
+    "ru"   "Час пик"
+  }
+
+  "51"
+  {
+    "chi"  "派对已毕"
+    "en"   "Party's Over"
+    "es"   "La Fiesta Ha Terminado"
+    "fr"   "La Fête est Finie"
+    "it"   "La festa è finita"
+    "jp"   "パーティはおしまい"
+    "pt"   "Acabou a Festa"
+    "ru"   "Вечеринка окончена"
+  }
+
+  "52"
+  {
+    "chi"  "罗宾汉"
+    "en"   "Robin in the Hood"
+    "es"   "Robin en el Hood"
+    "fr"   "Robin des Bois"
+    "it"   "Robin in the Hood"
+    "jp"   "ロビン・フッド"
+    "pt"   "Robin Hood"
+    "ru"   "Робин в худи"
+  }
+
+  "53"
+  {
+    "chi"  "针插包"
+    "en"   "Pincushion"
+    "es"   "Alfiletero"
+    "fr"   "Pique-Aiguille"
+    "it"   "Puntaspilli"
+    "jp"   "針差し"
+    "pt"   "Alfineteiro"
+    "ru"   "Игольник"
+  }
+
+  "54"
+  {
+    "chi"  "疑病症"
+    "en"   "Hypochondriac"
+    "es"   "Hipocondríaco"
+    "fr"   "Hypochondriaque"
+    "it"   "Ipocondriaco"
+    "jp"   "心気症"
+    "pt"   "Hipocondríaco"
+    "ru"   "Ипохондрик"
+  }
+
+  "55"
+  {
+    "chi"  "杰克·凯沃基安"
+    "en"   "Kevorkian"
+    "es"   "Kevorkian"
+    "fr"   "Kevorkian"
+    "it"   "Kevorkian"
+    "jp"   "ケヴォーキアン"
+    "pt"   "Kevorkian"
+    "ru"   "Кеворкян"
+  }
+
+  "56"
+  {
+    "chi"  "感觉上的问题"
+    "en"   "Problem of Induction"
+    "es"   "Problema de la Inducción"
+    "fr"   "Le Problème de l'Induction"
+    "it"   "Problema di induzione"
+    "jp"   "導入時の問題"
+    "pt"   "Problema de Indução"
+    "ru"   "Проблема индукции"
+  }
+
+  "57"
+  {
+    "chi"  "兄弟连"
+    "en"   "Band of Brothers"
+    "es"   "Banda de Hermanos"
+    "fr"   "Frères d'Armes"
+    "it"   "Fratelli al fronte"
+    "jp"   "バンド・オブ・ブラザース"
+    "pt"   "Banda de Irmãos"
+    "ru"   "Братья по оружию"
+  }
+
+  "58"
+  {
+    "chi"  "铁拳之怒"
+    "en"   "Bare Knuckle"
+    "es"   "A Puño Limpio"
+    "fr"   "À Mains Nues"
+    "it"   "A mani nude"
+    "jp"   "ベアナックル"
+    "pt"   "Junta Nua"
+    "ru"   "Голая костяшка"
+  }
+
+  "59"
+  {
+    "chi"  "可它们亦曾为人！"
+    "en"   "But They Used to be People!"
+    "es"   "¡Pero solían ser personas!"
+    "fr"   "Mais, C'Était des Gens, Avant !"
+    "it"   "Ma una volta erano persone!"
+    "jp"   "でも奴らも人間だったんだ！"
+    "pt"   "Mas Eles Costumavam Ser Pessoas!"
+    "ru"   "Но раньше они были людьми!"
+  }
+
+  "60"
+  {
+    "chi"  "丛林刀客"
+    "en"   "Jungle Cleaver"
+    "es"   "Corte de Jungla"
+    "fr"   "Couperet de la jungle"
+    "it"   "Mannaia della giungla"
+    "jp"   "ジャングルの包丁"
+    "pt"   "Cutelo da Selva"
+    "ru"   "Тесак для джунглей"
+  }
+
+  "61"
+  {
+    "chi"  "多看一眼就会爆炸"
+    "en"   "Just Watch Me Explode"
+    "es"   "Sólo Veme Explotar"
+    "fr"   "Regarde-moi Exploser"
+    "it"   "Guardami esplodere"
+    "jp"   "俺はハジケるぜ"
+    "pt"   "Apenas Me Veja Explodir"
+    "ru"   "Просто смотри, как я взорвусь"
+  }
+
+  "62"
+  {
+    "chi"  "无酒不成欢"
+    "en"   "A Drink to go with the Food"
+    "es"   "Una Bebida para Acompañar la Comida"
+    "fr"   "Une Boisson Qui Va Avec le Plat"
+    "it"   "Un drink da abbinare al cibo"
+    "jp"   "料理のお供に飲み物を"
+    "pt"   "Uma Bebida para Acompanhar a Comida"
+    "ru"   "Напиток к блюду"
+  }
+
+  "63"
+  {
+    "chi"  "安全行动"
+    "en"   "Safe Action"
+    "es"   "Acción Segura"
+    "fr"   "Safe-Action"
+    "it"   "Sistema 'Safe Action'"
+    "jp"   "セーフアクション"
+    "pt"   "Ação segura"
+    "ru"   "Безопасного действия"
+  }
+
+  "64"
+  {
+    "chi"  "害虫专家"
+    "en"   "Varmint Plinker"
+    "es"   "Caza Alimañas"
+    "fr"   "Tueur de Vermines"
+    "it"   "Tiro al bersaglio"
+    "jp"   "有害性プリンクラー"
+    "pt"   "Varmint Plinker"
+    "ru"   "Варминт Плинкер"
+  }
+
+  "65"
+  {
+    "chi"  "丧钟为谁而鸣"
+    "en"   "For Whom the Bell Tolls"
+    "es"   "Por Quien Doblan las Campanas"
+    "fr"   "For Whom the Bell Tolls"
+    "it"   "Per chi suona la campana"
+    "jp"   "誰が為に鐘は鳴る"
+    "pt"   "Por Quem os Sinos Dobram"
+    "ru"   "По ком звонит колокол"
+  }
+
+  "66"
+  {
+    "chi"  "利物浦永远阳光灿烂"
+    "en"   "It's Always Sunny in Liverpool"
+    "es"   "Siempre Hay Sol en Liverpool"
+    "fr"   "Il Fait Toujours Beau à Liverpool"
+    "it"   "C'è sempre il sole a Liverpool"
+    "jp"   "リバプールはいつも晴天"
+    "pt"   "Está sempre ensolarado em Liverpool"
+    "ru"   "В Ливерпуле всегда солнечно"
+  }
+
+  "67"
+  {
+    "chi"  "私人海滩"
+    "en"   "Private Beach"
+    "es"   "Playa Privada"
+    "fr"   "Plage Privée"
+    "it"   "Spiaggia privata"
+    "jp"   "プライベートビーチ"
+    "pt"   "Praia Privada"
+    "ru"   "Частный пляж"
+  }
+
+  "68"
+  {
+    "chi"  "狙击手学校"
+    "en"   "Sniper School"
+    "es"   "Escuela de Francotiradores"
+    "fr"   "École de Sniper"
+    "it"   "Scuola per cecchini"
+    "jp"   "スナイパースクール"
+    "pt"   "Escola de Atiradores"
+    "ru"   "Снайперская школа"
+  }
+
+  "69"
+  {
+    "chi"  "全力以赴"
+    "en"   "Give 'Er"
+    "es"   "Da lo Mejor"
+    "fr"   "Mont'lui !"
+    "it"   "Dacci dentro"
+    "jp"   "やってやろうじゃないか"
+    "pt"   "Dale"
+    "ru"   "Всыпь-ка ему"
+  }
+
+  "70"
+  {
+    "chi"  "三重折叠"
+    "en"   "Tri-Fold"
+    "es"   "Pliegarias"
+    "fr"   "Tripartite"
+    "it"   "Attrezzo pieghevole"
+    "jp"   "三つ折り"
+    "pt"   "Dobra em Três Partes"
+    "ru"   "Тройное сложение"
+  }
+
+  "71"
+  {
+    "chi"  "十四号星期六"
+    "en"   "Saturday the 14th"
+    "es"   "Sábado 14"
+    "fr"   "Vendredi 14"
+    "it"   "Sabato 14"
+    "jp"   "14日の土曜日"
+    "pt"   "Sábado 14"
+    "ru"   "Суббота 14-го"
+  }
+
+  "72"
+  {
+    "chi"  "哈德逊河上的哈瓦那"
+    "en"   "Havana on the Hudson"
+    "es"   "Havana en el Hudson"
+    "fr"   "La Havane de l'Hudson"
+    "it"   "Havana on the Hudson"
+    "jp"   "ハバナ・オン・ザ・ハドソン"
+    "pt"   "Havana no Hudson"
+    "ru"   "Гавана на Гудзоне"
+  }
+
+  "73"
+  {
+    "chi"  "巨魔讨债"
+    "en"   "Troll Toll"
+    "es"   "Peaje Trol"
+    "fr"   "Le Péage du Troll"
+    "it"   "Il pedaggio del troll"
+    "jp"   "トロールの通行料"
+    "pt"   "O Dobre de Sino Provocador"
+    "ru"   "Троллю забашлял"
+  }
+
+  "74"
+  {
+    "chi"  "丁格尔-利物浦"
+    "en"   "Dingle Berry"
+    "es"   "La Bola en la Dingle"
+    "fr"   "Dingle Berry"
+    "it"   "Dingle Berry"
+    "jp"   "ディングル・ベリー"
+    "pt"   "Dingle Berry"
+    "ru"   "Дингл Берри"
+  }
+
+  "75"
+  {
+    "chi"  "国王郡"
+    "en"   "County of Kings"
+    "es"   "Condado de Reyes"
+    "fr"   "Comté des Rois"
+    "it"   "Contea di Kings"
+    "jp"   "キングス郡"
+    "pt"   "Condado dos Reis"
+    "ru"   "Округ Кингс"
+  }
+
+  "76"
+  {
+    "chi"  "自由世界的右臂"
+    "en"   "Right Arm of the Free World"
+    "es"   "El Brazo Derecho del Mundo Libre"
+    "fr"   "Le Bras Droit du Monde Libre"
+    "it"   "Braccio destro del mondo libero"
+    "jp"   "自由世界の右腕"
+    "pt"   "Braço Direito do Mundo Livre"
+    "ru"   "Правая рука свободного мира"
+  }
+
+  "77"
+  {
+    "chi"  "修复如初"
+    "en"   "Take it Back"
+    "es"   "Retráctate"
+    "fr"   "Retire Ça"
+    "it"   "Riprenditela"
+    "jp"   "取り戻せ"
+    "pt"   "Pegue de Volta"
+    "ru"   "Беру свои слова обратно"
+  }
+
+  "78"
+  {
+    "chi"  "精锐之师"
+    "en"   "HAZMAT Team"
+    "es"   "Equipo NBQ"
+    "fr"   "Équipe HAZMAT"
+    "it"   "Squadra HAZMAT"
+    "jp"   "ハズマットチーム"
+    "pt"   "Equipe HAZMAT"
+    "ru"   "Команда ХИМЗАЩИТЫ"
+  }
+
+  "79"
+  {
+    "chi"  "放开我兄弟"
+    "en"   "Hands Off My Man"
+    "es"   "No Toques a Mi Hombre"
+    "fr"   "Vire tes Mains de Mon Pote"
+    "it"   "Giù le mani dal mio uomo"
+    "jp"   "その手をどけろ"
+    "pt"   "Tire as Mãos do Meu Homem"
+    "ru"   "Руки прочь от моего человека"
+  }
+
+  "80"
+  {
+    "chi"  "英勇事迹"
+    "en"   "Heroics"
+    "es"   "Heroísmo"
+    "fr"   "Héroïques"
+    "it"   "Eroico"
+    "jp"   "英雄"
+    "pt"   "Heroísmo"
+    "ru"   "Героизм"
+  }
+
+  "81"
+  {
+    "chi"  "凯特尼斯"
+    "en"   "Katniss"
+    "es"   "Katniss"
+    "fr"   "Katniss"
+    "it"   "Katniss"
+    "jp"   "カットニス"
+    "pt"   "Katniss"
+    "ru"   "Китнисс"
+  }
+
+  "82"
+  {
+    "chi"  "社会义务"
+    "en"   "Social Responsibility"
+    "es"   "Responsabilidad Social"
+    "fr"   "Responsabilité Sociale"
+    "it"   "Responsabilità sociale"
+    "jp"   "社会的責任"
+    "pt"   "Responsabilidade Social"
+    "ru"   "Социальная ответственность"
+  }
+
+  "83"
+  {
+    "chi"  "一石二鸟 Pt1"
+    "en"   "Toofer Pt. 1"
+    "es"   "Dos por Uno Parte 1"
+    "fr"   "Toofer Partie 1"
+    "it"   "Due al prezzo di uno Pt. 1"
+    "jp"   "トゥーファー パート1"
+    "pt"   "Toofer Pt. 1"
+    "ru"   "Туфер, ч. 1"
+  }
+
+  "84"
+  {
+    "chi"  "一石二鸟 Pt2"
+    "en"   "Toofer Pt. 2"
+    "es"   "Dos por Uno Parte 2"
+    "fr"   "Toofer Partie 2"
+    "it"   "Due al prezzo di uno Pt. 2"
+    "jp"   "トゥーファー パート2"
+    "pt"   "Toofer Pt. 2"
+    "ru"   "Туфер, ч. 2"
+  }
+
+  "85"
+  {
+    "chi"  "轰轰烈烈"
+    "en"   "Go Out with a BANG!"
+    "es"   "Un final ¡EXPLOSIVO!"
+    "fr"   "Sortie FRACASSANTE !"
+    "it"   "Uscire di scena col BOTTO!"
+    "jp"   "有終の美"
+    "pt"   "Saia com Um BANG!"
+    "ru"   "Уйти со ВЗРЫВОМ!"
+  }
+
+  "86"
+  {
+    "chi"  "生死与共"
+    "en"   "All or None"
+    "es"   "Todos o Ninguno"
+    "fr"   "Tout ou Rien"
+    "it"   "Tutti o nessuno"
+    "jp"   "全か無か"
+    "pt"   "Tudo ou Nada"
+    "ru"   "Всё или ничего"
+  }
+
+  "87"
+  {
+    "chi"  "不离不弃"
+    "en"   "No Man Left Behind"
+    "es"   "No Se Deja a Nadie Atrás"
+    "fr"   "On Ne Laisse Personne Sur Place"
+    "it"   "Non si abbandona nessuno"
+    "jp"   "誰も置き去りにはしない"
+    "pt"   "Nenhum Homem Deixado Para Trás"
+    "ru"   "Никто не остался позади"
+  }
+
+  "88"
+  {
+    "chi"  "和风之道"
+    "en"   "Way of the Zephyrs"
+    "es"   "Ruta de los Zephyrs"
+    "fr"   "Le Chemin des Zéphyrs"
+    "it"   "Via dello Zefiro"
+    "jp"   "Zephyrの道"
+    "pt"   "Caminho dos Zéfiros"
+    "ru"   "Путь Зефирса"
+  }
+
+  "89"
+  {
+    "chi"  "远走高飞"
+    "en"   "Ride the Rails"
+    "es"   "Sobre Rieles"
+    "fr"   "Puni par le Goudron, les Plumes et le Rail"
+    "it"   "Resta sui binari"
+    "jp"   "レールに乗って"
+    "pt"   "Ande nos Trilhos"
+    "ru"   "Поездка по рельсам"
+  }
+
+  "90"
+  {
+    "chi"  "向艾丽西亚阿姨问好！"
+    "en"   "Say Hello to Your Aunt Alicia!"
+    "es"   "¡Dile Hola a tu tia Alicia!"
+    "fr"   "Dis \"Allô Tante Alice\" !"
+    "it"   "Saluta la zia Alicia!"
+    "jp"   "アリシア叔母さんにこんにちはと言うんだ！"
+    "pt"   "Diga Olá para Sua Tia Alicia!"
+    "ru"   "Алло, я вас слушаю!"
+  }
+
+  "91"
+  {
+    "chi"  "荣誉沃灵顿人"
+    "en"   "Honorary Warringtonian"
+    "es"   "Warringtoniano Honorario"
+    "fr"   "Warringtonien Honoraire"
+    "it"   "Warringtoniano onorario"
+    "jp"   "名誉ウォリントン人"
+    "pt"   "Warringtoniano Honorário"
+    "ru"   "Почётный уоррингтонец"
+  }
+
+  "92"
+  {
+    "chi"  "死灵军团"
+    "en"   "Army of the Dead"
+    "es"   "Ejército de los Muertos"
+    "fr"   "L'Armée des Morts"
+    "it"   "Esercito dei morti viventi"
+    "jp"   "アーミー・オブ・ザ・デッド"
+    "pt"   "Exército dos Mortos"
+    "ru"   "Армия мёртвых"
+  }
+
+  "93"
+  {
+    "chi"  "再来一曲！"
+    "en"   "Encore!"
+    "es"   "¡Bis!"
+    "fr"   "Encore !"
+    "it"   "Bis!"
+    "jp"   "アンコール！"
+    "pt"   "Bis!"
+    "ru"   "На бис!"
+  }
+
+  "94"
+  {
+    "chi"  "七里山塘"
+    "en"   "Seven-mile Shantang"
+    "es"   "Shantang de 7 Millas"
+    "fr"   "Shantang-Aux-Sept-Li"
+    "it"   "Strada Shantang"
+    "jp"   "7マイルのシャンタン"
+    "pt"   "Shantang Sete milhas"
+    "ru"   "Семимильный Шантан"
+  }
+
+  "95"
+  {
+    "chi"  "创伤后应激障碍"
+    "en"   "PTSD"
+    "es"   "TEPT"
+    "fr"   "Syndrome de Stress Post-Traumatique"
+    "it"   "Disturbo da stress post-traumatico"
+    "jp"   "PTSD"
+    "pt"   "PTSD"
+    "ru"   "ПТСР"
+  }
+
+  "96"
+  {
+    "chi"  "我人麻了"
+    "en"   "Desensitization"
+    "es"   "Desensibilización"
+    "fr"   "Désensibilisation"
+    "it"   "Desensibilizzazione"
+    "jp"   "減感作療法"
+    "pt"   "Dessensibilização"
+    "ru"   "Десенсибилизация"
+  }
+
+  "97"
+  {
+    "chi"  "最大转速"
+    "en"   "Maximum RPM"
+    "es"   "Máximas Revoluciones"
+    "fr"   "RPM Maximum"
+    "it"   "Velocità massima"
+    "jp"   "回転数最大"
+    "pt"   "RPM Máxima"
+    "ru"   "Максимум оборотов"
+  }
+
+  "98"
+  {
+    "chi"  "血色情人节"
+    "en"   "Bloody Valentine"
+    "es"   "Valentín Sangriento"
+    "fr"   "Bloody Valentine"
+    "it"   "San Valentino di sangue"
+    "jp"   "血のバレンタイン"
+    "pt"   "Dia dos Namorados Sangrento"
+    "ru"   "Кровавый Валентин"
+  }
+
+  "99"
+  {
+    "chi"  "布鲁克林不眠夜"
+    "en"   "No Sleep Till"
+    "es"   "No Se Duerman Hasta"
+    "fr"   "No Sleep Till"
+    "it"   "No Sleep Till"
+    "jp"   "不眠不休"
+    "pt"   "Sem Dormir"
+    "ru"   "Не спать, пока что..."
+  }
+
+  "100"
+  {
+    "chi"  "午茶时光"
+    "en"   "Tea Time"
+    "es"   "Hora del Te"
+    "fr"   "L'Heure du Thé"
+    "it"   "Ora del tè"
+    "jp"   "お茶の時間"
+    "pt"   "Hora do Chá"
+    "ru"   "Чаепитие"
+  }
+
+  "101"
+  {
+    "chi"  "聪明反被聪明误"
+    "en"   "Too Cleaver For Your Own Good"
+    "es"   "Sólo para Pelados"
+    "fr"   "L'Esprit Trop Affûté Pour ton Propre Bien"
+    "it"   "Macellaio"
+    "jp"   "にっくき肉切り包丁"
+    "pt"   "Cuteleiro Demais"
+    "ru"   "Свежее мясо"
+  }
+
+  "102"
+  {
+    "chi"  "经过起点，银行付您200元"
+    "en"   "Pass GO and Collect $200"
+    "es"   "SALIDA - Cobra $200 Cada Vez que Pases por Aquí"
+    "fr"   "Passez par la case départ et gagnez 200€"
+    "it"   "Passa dal VIA e ritira 200$"
+    "jp"   "GOを通過して200$を受け取る"
+    "pt"   "Vá ao espaço marcado IR e Colete $200"
+    "ru"   "Проходи и собери 200 долларов"
+  }
+
+  "103"
+  {
+    "chi"  "早鸟特惠"
+    "en"   "Early Bird Special"
+    "es"   "Especial de Madrugueros"
+    "fr"   "Spécial Lève-Tôt"
+    "it"   "Lo speciale del mattiniero"
+    "jp"   "早朝割引"
+    "pt"   "Madrugador Especial"
+    "ru"   "Специальное предложение для «жаворонков»"
+  }
+
+  "104"
+  {
+    "chi"  "围堵失败"
+    "en"   "Containment Loss"
+    "es"   "Pérdida de Contención"
+    "fr"   "Brêche de Confinement"
+    "it"   "Contenimento fallito"
+    "jp"   "収容違反"
+    "pt"   "Perda de Contenção"
+    "ru"   "Разгерметизация"
+  }
+
+  "105"
+  {
+    "chi"  "\"这里没有庇护所！\""
+    "en"   "There be No Shelter here!"
+    "es"   "¡No Hay Refugio Aquí!"
+    "fr"   "There be No Shelter here!"
+    "it"   "Qui non c'è riparo!"
+    "jp"   "ここにはシェルターなんか無い！"
+    "pt"   "Não Há Abrigo Aqui!"
+    "ru"   "Здесь нет убежища!"
+  }
+
+  "106"
+  {
+    "chi"  "通勤地狱"
+    "en"   "Commuter Hell"
+    "es"   "Lata de Sardinas"
+    "fr"   "L'Enfer des Banlieusards"
+    "it"   "L'inferno dei pendolari"
+    "jp"   "通勤ラッシュ"
+    "pt"   "Inferno do Viajante"
+    "ru"   "Пригородный ад"
+  }
+
+  "107"
+  {
+    "chi"  "暴露疗法"
+    "en"   "Exposure Therapy"
+    "es"   "Terapia de Exposición"
+    "fr"   "Thérapie d'Exposition"
+    "it"   "Terapia d'esposizione"
+    "jp"   "暴露療法"
+    "pt"   "Terapia Exposta"
+    "ru"   "Экспозиционная терапия"
+  }
+
+  "108"
+  {
+    "chi"  "大洋彼岸"
+    "en"   "Beyond the Sea"
+    "es"   "Más Allá del Mar"
+    "fr"   "Au-delà de la Mer"
+    "it"   "Al di là del mare"
+    "jp"   "海を越えて"
+    "pt"   "Além do Mar"
+    "ru"   "За океаном"
+  }
+
+  "109"
+  {
+    "chi"  "新的一天"
+    "en"   "A New Day"
+    "es"   "Un Nuevo Día"
+    "fr"   "Un Nouveau Jour"
+    "it"   "Un nuovo giorno"
+    "jp"   "新しい一日"
+    "pt"   "Um Novo Dia"
+    "ru"   "Новый день"
+  }
+
+  "110"
+  {
+    "chi"  "\"摇滚\"明星！"
+    "en"   "Rockstar!"
+    "es"   "¡Estrella de Rock!"
+    "fr"   "Rockstar !"
+    "it"   "Rockstar!"
+    "jp"   "ロックスターだ！"
+    "pt"   "Estrela do Rock!"
+    "ru"   "Рок-звезда!"
+  }
+
+  "111"
+  {
+    "chi"  "西瓜救星"
+    "en"   "Melon Felon"
+    "es"   "Ladrón de Melón"
+    "fr"   "Félon des Melons"
+    "it"   "Salvatore di cocomeri"
+    "jp"   "メロン・フェロン"
+    "pt"   "Fuga da Melancia"
+    "ru"   "Блатной арбуз"
+  }
+
+  "112"
+  {
+    "chi"  "美妙时光"
+    "en"   "A Hell of a Good Time"
+    "es"   "¡Hay que alocarnos!"
+    "fr"   "Un Sacré Bon Moment"
+    "it"   "Un'esperienza meravigliosa"
+    "jp"   "地獄のような楽しい時間"
+    "pt"   "Uma Alegria Infernal"
+    "ru"   "Чертовски хорошее времяпрепровождение"
+  }
+
+  "113"
+  {
+    "chi"  "肮脏交易"
+    "en"   "Dirty Business"
+    "es"   "Negocios Sucios"
+    "fr"   "Sale Boulot"
+    "it"   "Panni sporchi"
+    "jp"   "汚れ仕事"
+    "pt"   "Negócio Sujo"
+    "ru"   "Грязные делишки"
+  }
+
+  "114"
+  {
+    "chi"  "搜救之旅"
+    "en"   "Search and Rescue"
+    "es"   "Búsqueda y Rescate"
+    "fr"   "Recherche et sauvetage"
+    "it"   "Ricerca e soccorso"
+    "jp"   "捜索と救助"
+    "pt"   "Busca e Resgate"
+    "ru"   "Спасение"
+  }
+}
